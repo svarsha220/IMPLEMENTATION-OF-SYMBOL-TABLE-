@@ -1,6 +1,6 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
 # AIM :
-## To write a C program to implement a symbol table.
+ To write a C program to implement a symbol table.
 # ALGORITHM
 1.	Start the program.
 2.	Get the input from the user with the terminating symbol ‘$’.
@@ -72,4 +72,4 @@ void main() {
 # OUTPUT
 ![image](https://github.com/svarsha220/IMPLEMENTATION-OF-SYMBOL-TABLE-/assets/127709117/7cbf35c7-4559-4684-a8cb-c8a4179491c5)
 # RESULT
-### The program to implement a symbol table is executed and the output is verified.
+The program to implement a symbol table is executed and the output is verified.
